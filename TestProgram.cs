@@ -14,7 +14,7 @@ namespace Testprogram
             {
                 Console.WriteLine("jenkins");
             }
-            Console.ReadKey();
+           
         }
     }
 }
